@@ -1,1 +1,21 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<bug_report>
+  <Summary>The logo disappeared on main title</Summary>
+  <Project>web-site</Project>
+  <Component>graphical interface</Component>
+  <Version>5.4831.23BCF</Version>
+  <Severity>Minor</Severity>
+  <Priority>High</Priority>
+  <Status>Open</Status>
+  <Author>Andrew Shlyapic</Author>
+  <Assigned_to>Bogdan Shlyapic</Assigned_to>
+  <Environment>win10, 64bit,  chrome 99.5.6.8</Environment>
+  <Steps_to_reproduce>
+    <Step_one>Open the site</Step_one>
+    <Step_two>...</Step_two>
+    <Step_three>...</Step_three>
+  </Steps_to_reproduce>
+  <Result>Logo is disapeeared on main title</Result>
+  <Expected_result>Logo is displayed on main title</Expected_result>
+  <Attach>logs.txt</Attach>
+</bug_report>
